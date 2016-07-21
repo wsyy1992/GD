@@ -4,5 +4,8 @@
     <string name="app_name">GD</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_enter">EnterActivity</string>
+    <string name="title_activity_ding_wei">DingWeiActivity</string>
+    <string name="title_activity_dingwei">DingweiActivity</string>
 
 </resources>
